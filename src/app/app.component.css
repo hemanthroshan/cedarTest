@@ -1,0 +1,9 @@
+.vertical-line {
+    border-left: 1px dotted black;
+    height: 50px;
+  }
+  
+.hortizontal{
+    display:flex;
+    justify-content: space-around;
+}
